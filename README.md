@@ -4,11 +4,11 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 # Nome do projeto
 
-**nome dos alunos:** 
+**nome dos alunos: Gabriel Chiode** 
 
-**Turma:**
+**Turma: SIS**
 
-**Ano:**
+**Ano: 4 ano**
 
 ## Objetivo / descrição do Projeto
 
@@ -46,7 +46,7 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/rAKpgoqykXU)
 
 
 ### Referências 
